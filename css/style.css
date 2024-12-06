@@ -130,7 +130,7 @@ img {
 
 /* start code */
 
-/* tablet */
+/* --- TABLET --- */
 @media screen and (max-width: 768px) {
 
     /* container */
@@ -154,4 +154,9 @@ img {
     .why-us .col-right {
         width: 64%;
     }
+}
+
+/* --- SMARTPHONE --- */
+@media screen and (max-width: 480px) {
+    
 }
