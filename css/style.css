@@ -172,4 +172,11 @@ img {
     .why-us .col-right {
         width: 100%;
     }
+
+    /* why us */
+    .why-us {
+        background-color: #333333;
+        margin-bottom: 0;
+        padding-bottom: 3rem;
+    }
 }
