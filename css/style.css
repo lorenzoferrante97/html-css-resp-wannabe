@@ -132,6 +132,12 @@ img {
 
 /* tablet */
 @media screen and (max-width: 768px) {
-    
+
+    /* container */
+    .container {
+        width: 88%;
+        margin: 0 auto;
+        padding: 0 8px;
+    }
     
 }
