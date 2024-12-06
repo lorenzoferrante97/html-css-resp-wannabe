@@ -158,5 +158,15 @@ img {
 
 /* --- SMARTPHONE --- */
 @media screen and (max-width: 480px) {
-    
+
+    /* row */
+    .row {
+        flex-direction: column;
+        gap: 80px;
+    }
+
+    /* lessons col */
+    .lessons .col {
+        width: 100%;
+    }
 }
