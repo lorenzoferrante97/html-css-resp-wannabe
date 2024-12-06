@@ -146,4 +146,12 @@ img {
         padding-right: 0.5rem;
     }
     
+    /* why us box */
+    .why-us .col-left {
+        width: 36%;
+    }
+    
+    .why-us .col-right {
+        width: 64%;
+    }
 }
