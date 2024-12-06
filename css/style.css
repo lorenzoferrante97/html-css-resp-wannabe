@@ -165,8 +165,11 @@ img {
         gap: 80px;
     }
 
-    /* lessons col */
-    .lessons .col {
+    /* col */
+    .lessons .col,
+    .steps .col,
+    .why-us .col-left,
+    .why-us .col-right {
         width: 100%;
     }
 }
