@@ -128,4 +128,10 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
- /* start code */
+/* start code */
+
+/* tablet */
+@media screen and (max-width: 768px) {
+    
+    
+}
