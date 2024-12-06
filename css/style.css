@@ -133,8 +133,14 @@ img {
 /* start bonus */
 
 /* --- BONUS MEDIA QUERY */
-@media screen and (min-width > 768px) and (max-width < 1161px) {
-    
+@media screen and (min-width: 768px) and (max-width: 1161px) {
+
+    /* container */
+    .container {
+        width: 84%;
+        margin: 0 auto;
+        padding: 0;
+    }
 }
 
 /* --- TABLET --- */
